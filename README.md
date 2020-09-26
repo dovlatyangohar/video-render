@@ -1,2 +1,2 @@
 # video-render
-video render app with ExoPlayer
+simple video render app with ExoPlayer
