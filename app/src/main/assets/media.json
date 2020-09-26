@@ -1,0 +1,62 @@
+[
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "https://storage.googleapis.com/exoplayer-test-media-0/firebase-animation.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://techslides.com/demos/sample-videos/small.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  },
+  {
+    "thumbnail": "https://www.datacar.com/wp-content/uploads/2015/03/video1.png",
+    "title": "Video",
+    "description": "Small video for demo app",
+    "mediaURL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  }
+]

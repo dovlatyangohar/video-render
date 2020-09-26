@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoRenderApp</string>
+    <string name="video_thumbnail">Video thumbnail</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="download_video">Download video</string>
+</resources>
